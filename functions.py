@@ -4,7 +4,6 @@ from config import TOKEN, DESTINATION_CHAT
 from aiogram import Bot
 from functions_db import FunctionsDB
 import datetime
-from apscheduler.schedulers.asyncio import AsyncIOScheduler
 import asyncio
 
 

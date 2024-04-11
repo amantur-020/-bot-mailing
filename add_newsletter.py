@@ -6,7 +6,6 @@ from functions import get_telegram_message_id,newsletters
 from functions_db import FunctionsDB
 from keyboards import cancellation_kb,newsletter_kb
 import asyncio
-from apscheduler.schedulers.asyncio import AsyncIOScheduler
 from aiogram.filters import Command
 
 
